@@ -1,2 +1,3 @@
-# AI-girl
-邻家有女初长成
+# Backend service
+1.使用python-flask
+2.使用docker-compose部署
